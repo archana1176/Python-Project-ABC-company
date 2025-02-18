@@ -6,11 +6,11 @@ Preprocessing: Correct the data in the "height" column by replacing it with rand
 
 Analysis Tasks:
 
-Determine the distribution of employees across each team and calculate the percentage split relative to the total number of employees.
-Segregate employees based on their positions within the company.
-Identify the predominant age group among employees.
-Discover which team and position have the highest salary expenditure.
-Investigate if there's any correlation between age and salary, and represent it visually.
+1 Determine the distribution of employees across each team and calculate the percentage split relative to the total number of employees.
+2 Segregate employees based on their positions within the company.
+3 Identify the predominant age group among employees.
+4 Discover which team and position have the highest salary expenditure.
+5 Investigate if there's any correlation between age and salary, and represent it visually.
 
 
 Here are some insights based on the analysis tasks and visualizations performed on the ABC company dataset:
